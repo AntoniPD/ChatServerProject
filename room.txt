@@ -1,0 +1,3 @@
+(room) koko: hello guys!
+(room) ivan: hello koko!
+(room) mitko: what's up?
